@@ -1,0 +1,65 @@
+body {
+  background-size: cover;
+  background-image: url('https://img.freepik.com/free-vector/hand-painted-watercolor-nature-background_23-2148941599.jpg?w=900&t=st=1690700743~exp=1690701343~hmac=58d3e154d83e3a6b0cc6d356e566b126113c06bb2e22d0bdf60bb0438759eb72');
+}
+/* Styling for the navbar */
+
+
+
+.BSP {
+  margin-top: 5%;
+  margin-left: 35%;
+  font-size: 3rem;
+}
+
+.content h{
+  font-size: 3rem;
+  font-weight: bold;
+}
+.content h span{
+  
+  font-size: 3rem;
+  font-weight: bold;
+  color: rgb(51, 165, 57);
+
+}
+.content {
+  margin-top: 10%;
+  margin-left: 10%;
+}
+
+
+.plant1 img {
+  margin-left: 300px;
+  border-radius: 20%;
+  width: 400px;
+  height: 500px;
+}
+.container {
+  display: flex;
+  padding: 50px;
+  padding-right: 150px;
+}
+.order {
+  background-color: rgb(51, 165, 57);
+  border-radius: 10px;
+  width: 120px;
+  height: 45px;
+  border: cornsilk;
+  color: azure;
+  font-size: 1rem;
+}
+.watch img {
+
+  width: 20px; 
+  height: 20px;
+  margin-right: 15%;
+  object-fit: cover;
+}
+.watch {
+  border-radius: 10px;
+  width: 200px;
+  height: 45px;
+  font-size: 1rem;
+  border: aliceblue;
+}

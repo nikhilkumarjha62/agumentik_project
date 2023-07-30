@@ -1,0 +1,48 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    color: rgb(32, 67, 46);
+  }
+  
+  .logo {
+    font-size: 2rem;
+  }
+  
+  .nav-links {
+    list-style: none;
+    display: flex;
+  }
+  
+  .nav-links li {
+    margin-right: 20px;
+  }
+  
+  .nav-links a {
+    text-decoration: none;
+    color: black;
+  }
+  .nav-links a.active {
+    font-weight: bold;
+  }
+  .profile img {
+    width: 30px; 
+    height: 30px;
+    object-fit: cover;
+  }
+  .cart img {
+    width: 30px; 
+    height: 30px;
+    object-fit: cover;
+  }
+  .Search img {
+    width: 30px; 
+    height: 30px;
+    object-fit: cover;
+  }
+  .Search button {
+    border: transparent;
+    border-radius: 90%;
+  }
+  
